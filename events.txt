@@ -1,12 +1,24 @@
-RV Avaneendra ClubHouse 
+Location:RV Avaneendra ClubHouse 
 xxxx
-Event 1 14/04/2017
+Date:14 April 2017
 xxxx
-Event 1 Place
+Timings:2pm to 4pm
+xxxx
+Contact:Shilaja-9618715457/040-40267455
 xxxxxx
-Event 2
+Location:SRR Pride ,smart juniours play school ,Bachupally
 xxxx
-Event 2 Date
+Date:15 April 2017
 xxxx
-Event 2 Place
+Timings: 10am to 12 Noon
+xxxx
+Contact:Shilaja-9618715457/040-40267455
+xxxxxx
+Location:Your collage
+xxxx
+Date:15 June
+xxxx
+Timings: 10am to 12 Noon
+xxxx
+Contact:Shilaja-9618715457/040-40267455
 xxxxxx
