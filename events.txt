@@ -1,6 +1,6 @@
-Event 1
+RV Avaneendra ClubHouse 
 xxxx
-Event 1 Date
+Event 1 14/04/2017
 xxxx
 Event 1 Place
 xxxxxx
